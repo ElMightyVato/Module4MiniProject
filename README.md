@@ -81,9 +81,9 @@ Functions
     show_main_menu()
 
 Displays the main menu of the system, allowing the user to choose between book, user, or author.
-"""
-show_book_menu()
-"""
+
+    show_book_menu()
+
 Displays the book-related menu.
 
     show_user_menu()
